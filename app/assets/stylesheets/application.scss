@@ -14,7 +14,32 @@
  *= require_self
  */
 @import "bootstrap";
-
-.navbar {
-    background: #FDF6EA !important;
+body{
+    flex: 1 0 auto;
+    background-color: lightgray;
 }
+.navbar {
+    background: black !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+.jumbo {
+    background-image: url('home-page.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 425px;
+}
+
