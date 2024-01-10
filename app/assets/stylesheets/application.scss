@@ -43,3 +43,12 @@ body{
     height: 425px;
 }
 
+.foot-content a {
+    color: white;
+    text-decoration: none;
+}
+
+.foot-content a:hover {
+    color: #6495ED;
+    text-decoration: underline;
+}
