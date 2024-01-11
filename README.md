@@ -153,7 +153,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Rob Percival an instructor for The Complete Ruby on Rails Developer Course on Udemy.
+I would like to thank [Rob Percival](https://twitter.com/techedrob) an instructor for The Complete Ruby on Rails Developer Course on Udemy.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
