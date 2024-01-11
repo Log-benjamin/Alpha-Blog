@@ -13,3 +13,45 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap";
+body{
+    background-color: lightgray;
+}
+.navbar {
+    background: black !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+.jumbo {
+    background-image: url('home-page.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 425px;
+}
+
+.foot-content a {
+    color: white;
+    text-decoration: none;
+}
+
+.foot-content a:hover {
+    color: #6495ED;
+    text-decoration: underline;
+}
+
+.form-cls {
+    background-color: #4bb8c2;
+}
