@@ -14,7 +14,7 @@ development:
 
 test:
   <<: *default
-  database: alpha_development
+  database: alpha_development_test
   username: postgres
   password: Passw0rd=
 
